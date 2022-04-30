@@ -61,8 +61,8 @@ myMax <- function(v) {
 #' @export
 #'
 myMean <- function(v) {
-  +m <- sum(v) / length(v)
-  +     return(m)
+  m <- sum(v) / length(v)
+ return(m)
 }
 
 #' This function is called mySummary. mySummary takes as input a data set
