@@ -1,0 +1,12 @@
+Package: dosgatos
+Type: Package
+Title: Summarypack
+Version: 0.1.0
+Author: Echeguren, Rose <echeguren@usf.edu>
+Maintainer: Echeguren, Rose <echeguren@usf.edu>
+Description: The goal of this package is to re-create the summary functions 
+    native to R. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
