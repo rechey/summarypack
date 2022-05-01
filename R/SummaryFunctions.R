@@ -23,8 +23,8 @@ RemoveNA <- function(X, x) {
 #' miniMin - Helper Function to myMin
 #' @export
 miniMin <- function(a, b) {
-  +if (a < b) {
-    +return(a)
+  if (a < b) {
+    return(a)
   }
     else return(b)
 }
